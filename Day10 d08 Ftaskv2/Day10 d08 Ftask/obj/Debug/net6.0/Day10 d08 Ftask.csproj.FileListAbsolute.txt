@@ -1,0 +1,45 @@
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.exe
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.deps.json
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.runtimeconfig.json
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.dll
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.pdb
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.csproj.AssemblyReference.cache
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.AssemblyInfoInputs.cache
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.AssemblyInfo.cs
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.csproj.CoreCompileInputs.cache
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.dll
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\refint\Day10 d08 Ftask.dll
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.pdb
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.genruntimeconfig.cache
+D:\ITI\Day10 d08 c# Final Task\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\ref\Day10 d08 Ftask.dll
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.exe
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.deps.json
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.runtimeconfig.json
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.dll
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.pdb
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.csproj.AssemblyReference.cache
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.GeneratedMSBuildEditorConfig.editorconfig
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.AssemblyInfoInputs.cache
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.AssemblyInfo.cs
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.csproj.CoreCompileInputs.cache
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.dll
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\refint\Day10 d08 Ftask.dll
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.pdb
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.genruntimeconfig.cache
+E:\I T I\CU,net\Day10 d08 Ftask\Day10 d08 Ftask\obj\Debug\net6.0\ref\Day10 d08 Ftask.dll
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.exe
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.deps.json
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.runtimeconfig.json
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.dll
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\bin\Debug\net6.0\Day10 d08 Ftask.pdb
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.AssemblyInfo.cs
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.dll
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\obj\Debug\net6.0\refint\Day10 d08 Ftask.dll
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.pdb
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\obj\Debug\net6.0\Day10 d08 Ftask.genruntimeconfig.cache
+C:\Users\dell\Downloads\Day10 d08 Ftaskv2\Day10 d08 Ftask\obj\Debug\net6.0\ref\Day10 d08 Ftask.dll
